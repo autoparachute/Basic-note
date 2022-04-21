@@ -1,0 +1,5 @@
+/home/yiweizou/vscode/case2/build/CMakeFiles/rebuild_cache.dir
+/home/yiweizou/vscode/case2/build/CMakeFiles/edit_cache.dir
+/home/yiweizou/vscode/case2/build/bin/CMakeFiles/rebuild_cache.dir
+/home/yiweizou/vscode/case2/build/bin/CMakeFiles/test.dir
+/home/yiweizou/vscode/case2/build/bin/CMakeFiles/edit_cache.dir

@@ -1,0 +1,6 @@
+/home/yiweizou/vscode/case4/build/CMakeFiles/rebuild_cache.dir
+/home/yiweizou/vscode/case4/build/CMakeFiles/edit_cache.dir
+/home/yiweizou/vscode/case4/build/bin/CMakeFiles/rebuild_cache.dir
+/home/yiweizou/vscode/case4/build/bin/CMakeFiles/edit_cache.dir
+/home/yiweizou/vscode/case4/build/bin/CMakeFiles/testFunc_shared.dir
+/home/yiweizou/vscode/case4/build/bin/CMakeFiles/testFunc_static.dir

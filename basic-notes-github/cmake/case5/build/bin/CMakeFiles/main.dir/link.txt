@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/main.dir/main.c.o  -o main -Wl,-rpath,/home/yiweizou/vscode/case5/lib ../../lib/libtestFunc.so 

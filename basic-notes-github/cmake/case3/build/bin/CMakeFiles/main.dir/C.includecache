@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/../include/testFunc1.h
+
+../src/../include/testFunc2.h
+
+/home/yiweizou/vscode/case4/src/main.c
+stdio.h
+-
+testFunc1.h
+/home/yiweizou/vscode/case4/src/testFunc1.h
+testFunc2.h
+/home/yiweizou/vscode/case4/src/testFunc2.h
+
+/home/yiweizou/vscode/case4/src/testFunc1.c
+stdio.h
+-
+testFunc1.h
+/home/yiweizou/vscode/case4/src/testFunc1.h
+
+/home/yiweizou/vscode/case4/src/testFunc2.c
+stdio.h
+-
+testFunc2.h
+/home/yiweizou/vscode/case4/src/testFunc2.h
+

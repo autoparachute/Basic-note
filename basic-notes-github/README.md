@@ -32,3 +32,6 @@
 
 # 线程的同步与互斥		synchronization_and_mutual_exclusion
 
+
+
+# 软中断、内存页置换算法、磁盘调度算法	soft_interrupt
